@@ -1,1 +1,6 @@
 node_modules
+.stackblitzrc
+.firebase-debug.log
+/dist/.firebase
+/dist/.firebaserc
+/dist/firebase.json
